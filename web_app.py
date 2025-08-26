@@ -134,4 +134,5 @@ if url_input:
             st.markdown("### 🔍 Extracted Features")
             # Pretty-print features as a table
             features_df = pd.DataFrame(list(features.items()), columns=["Feature", "Value"])
+
             st.table(features_df)
