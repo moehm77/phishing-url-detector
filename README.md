@@ -28,4 +28,4 @@ It is **not a production-grade phishing detector**. For real-world protection, a
 ---
 
 ## 🎥 Demo
-🖥️ **Live App**: [Try it here](https://yourusername-phishing-url-detector.streamlit.app)  
+🖥️ **Live App**: [Try it here](https://phishing-url-detector-faztb4xrje5o2bnpbmcntu.streamlit.app/)  
