@@ -7,7 +7,7 @@ import math
 from collections import Counter
 
 # Load trained model
-model = joblib.load(r"C:\Users\pc\Desktop\final\phishing_url_model.pkl")
+model = joblib.load("phishing_url_model.pkl")
 
 # Helper functions
 def is_whitelisted(url):
